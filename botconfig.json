@@ -1,0 +1,20 @@
+{
+	"token": "",
+	"twitchclientID": "",
+    "clientSecret": "",
+    "adminUserID": "",
+    "channelID": "",
+    "prefix": ".",
+    "prefix2": "!",
+    "prefix3": "/",
+    "prefixArray": [".", "!", "/"],
+	"red": "#b70000",
+	"orange": "#ff6a00",
+	"green": "#00ff26",
+    "purple": "#d604cf",
+    "allowedCmdChannels": ["bot-help", "account-relations", "troubleshooting", "mod-helping", "vet-chat", "testing-role", "testing", "moderators", "request-a-mod", "request-a-mod-test"],
+    "availableCommands": ["account","builds","coins","commands","connect","download","downloadru","emote","exitlag","faq","faqru","krru","level","lifeskills","map","pdf","ping","prologue","rankings","server","settings","skills","translating","troubleshoot","vpn","western","wiki","help"],
+    "bannedWords": [""],
+    "coinsOn": true,
+    "xpOn": true
+}
